@@ -1,0 +1,15 @@
+/Users/brocbozeman/Documents/Source/Repos/mis321-pa2-brocbozeman/obj/Debug/net5.0/mis321-pa2-brocbozeman.csprojAssemblyReference.cache
+/Users/brocbozeman/Documents/Source/Repos/mis321-pa2-brocbozeman/obj/Debug/net5.0/mis321-pa2-brocbozeman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brocbozeman/Documents/Source/Repos/mis321-pa2-brocbozeman/obj/Debug/net5.0/mis321-pa2-brocbozeman.AssemblyInfoInputs.cache
+/Users/brocbozeman/Documents/Source/Repos/mis321-pa2-brocbozeman/obj/Debug/net5.0/mis321-pa2-brocbozeman.AssemblyInfo.cs
+/Users/brocbozeman/Documents/Source/Repos/mis321-pa2-brocbozeman/obj/Debug/net5.0/mis321-pa2-brocbozeman.csproj.CoreCompileInputs.cache
+/Users/brocbozeman/Documents/Source/Repos/mis321-pa2-brocbozeman/bin/Debug/net5.0/mis321-pa2-brocbozeman.deps.json
+/Users/brocbozeman/Documents/Source/Repos/mis321-pa2-brocbozeman/bin/Debug/net5.0/mis321-pa2-brocbozeman.runtimeconfig.json
+/Users/brocbozeman/Documents/Source/Repos/mis321-pa2-brocbozeman/bin/Debug/net5.0/mis321-pa2-brocbozeman.runtimeconfig.dev.json
+/Users/brocbozeman/Documents/Source/Repos/mis321-pa2-brocbozeman/bin/Debug/net5.0/mis321-pa2-brocbozeman.dll
+/Users/brocbozeman/Documents/Source/Repos/mis321-pa2-brocbozeman/bin/Debug/net5.0/ref/mis321-pa2-brocbozeman.dll
+/Users/brocbozeman/Documents/Source/Repos/mis321-pa2-brocbozeman/bin/Debug/net5.0/mis321-pa2-brocbozeman.pdb
+/Users/brocbozeman/Documents/Source/Repos/mis321-pa2-brocbozeman/obj/Debug/net5.0/mis321-pa2-brocbozeman.dll
+/Users/brocbozeman/Documents/Source/Repos/mis321-pa2-brocbozeman/obj/Debug/net5.0/ref/mis321-pa2-brocbozeman.dll
+/Users/brocbozeman/Documents/Source/Repos/mis321-pa2-brocbozeman/obj/Debug/net5.0/mis321-pa2-brocbozeman.pdb
+/Users/brocbozeman/Documents/Source/Repos/mis321-pa2-brocbozeman/obj/Debug/net5.0/mis321-pa2-brocbozeman.genruntimeconfig.cache
